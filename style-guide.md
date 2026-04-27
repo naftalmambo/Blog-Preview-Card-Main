@@ -1,3 +1,5 @@
+
+
 # Front-end Style Guide
 
 ## Layout
@@ -30,3 +32,4 @@ The designs were created to the following widths:
 - Weights: 500, 800
 
 > 💎 This is a free+ challenge. So, if you want to see all the design details and practice working with professional tools like Figma, you can download the design file from where you downloaded the starter code.
+
