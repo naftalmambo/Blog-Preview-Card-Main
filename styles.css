@@ -59,7 +59,21 @@ body {
   color: hsl(0, 0%, 42%);
   letter-spacing: 0.5px;
   line-height: 1.5;
-    margin-bottom: 25px;
+  margin-bottom: 25px;
+}
 
+.card-author {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 25px;
+}
 
+.card-author-img {
+  height: 30px;
+}
+
+.card-author-name {
+  font-weight: 800;
 }
