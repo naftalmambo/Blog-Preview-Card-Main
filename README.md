@@ -24,11 +24,10 @@ Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
 
-### Screenshot             
+### Screenshot
 
-
-| Desktop Version | Mobile Version |
-| :--- | :--- |
+| Desktop Version                                          | Mobile Version                                         |
+| :------------------------------------------------------- | :----------------------------------------------------- |
 | ![Desktop Screenshot](assets/images/desktop-version.png) | ![Mobile Screenshot](assets/images/mobile-version.jpg) |
 
 ### Links
@@ -80,8 +79,6 @@ In future work, I intend to focus on:
 - **Accesibility:** Ensuring every interactive element has perfect `focus-visible` styles for keyboard users. I've come to realise that even though HTML might seem simple but one must be intentional and considerate with every nesting and elements applied. Hence one should use semantic HTML to improve accessibility.
 
 - **Responsiveness:** I believe I've tried my best to make this project as responsive as possible through use of mobile-first approach, while also open to improvements.
-
-### AI Collaboration
 
 ### AI Collaboration
 
