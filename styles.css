@@ -4,6 +4,18 @@
   padding: 0;
 }
 
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
 body {
   font-family: 'Figtree', sans-serif;
   background-color: hsl(47, 88%, 63%);
@@ -16,7 +28,7 @@ body {
 }
 
 .card {
-  padding: 24px;
+  padding: 16px;
   max-width: 384px;
   width: 90%;
   background-color: hsl(0, 0%, 100%);
@@ -24,12 +36,12 @@ body {
   border-radius: 20px;
   border: 1px solid hsl(0, 0%, 7%);
   box-shadow: 8px 8px 0px 0px #000000;
+  transition: all 0.3s ease;
 }
 
 .card:active {
   transform: translate(8px, 8px);
   box-shadow: 0px 0px 0px 0px #000000;
-  transition: all 0.3s ease;
 }
 
 .logo img {
@@ -68,7 +80,7 @@ body {
 
 .card-title {
   font-weight: 800;
-  font-size: 25px;
+  font-size: 22px;
   margin-bottom: 25px;
 }
 
@@ -137,9 +149,11 @@ body {
   text-decoration: underline;
 }
 
-@media (max-width: 340px) {
+@media (min-width: 768px) {
   .card {
-    padding: 16px;
-    width: 95%;
+    padding: 24px;
+  }
+  .card-title {
+    font-size: 28px;
   }
 }
