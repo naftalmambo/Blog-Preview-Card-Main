@@ -24,9 +24,12 @@ Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
 
-### Screenshot
+### Screenshot             
 
-![Solution Screenshoot](assets/images/blog-card-screenshot.png)
+
+| Desktop Version | Mobile Version |
+| :--- | :--- |
+| ![Desktop Screenshot](assets/images/desktop-version.png) | ![Mobile Screenshot](assets/images/mobile-version.png) |
 
 ### Links
 
