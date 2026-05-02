@@ -91,15 +91,22 @@ I used a large language model trained by **Google** to refine the CSS architectu
 
 **What worked well:** The AI was excellent at explaining the **logic** behind mobile-first design, which helped me decide when to keep or remove specific media queries. It also helped ensure my hover and active states (like the card "button press" effect) were implemented smoothly.
 
-## Author
+## 🚀 Open for Opportunities & Collaboration
 
-## Author
+This project marks the beginning of my journey toward becoming a professional Web Developer and ultimately a Java Full-Stack. I am currently:
+
+- 🔭 **Open for work:** Looking for junior roles or freelance opportunities where I can apply my skills in HTML, CSS, and Javascript(in-progress).
+- 🤝 **Open to contribute:** Interested in collaborating on open-source projects or team-based challenges.
+- 🌱 **Always learning:** Moving towards the **Frontend Mentor Pro package** to master Figma-to-code workflows.
+
+If you like what you see or have a project you need help with, connect with:
+
+**Author**
 
 - Frontend Mentor - [@naftalmambo](https://frontendmentor.io)
 - LinkedIn - [Naftal Mambo](https://linkedin.com)
 - GitHub - [@naftalmambo](https://github.com)
 - Discord - [devMambo](https://discordapp.com/users/1157321092482994246)
-
 
 ## Acknowledgments
 
