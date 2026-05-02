@@ -117,3 +117,11 @@ I want to express my sincere gratitude to **[Frontend Mentor](https://www.fronte
 This platform will be more than just a place to practice—it will be a gateway to building skills that truly **change lives**.
 
 By bridging the gap between theory and professional workflows, Frontend Mentor will help me build a rock-solid skill for a future where I can create meaningful digital solutions.
+
+## Credits
+
+While this is a [Frontend Mentor](https://www.frontendmentor.io) challenge, the structural and styling knowledge used to build it was gained through;
+* **freeCodeCamp**: For the consistent interactive practice that solidified my HTML and CSS fundamentals.
+* **The Odin Project**: For teaching me how to set up my local working environment and to think like a developer.
+
+
