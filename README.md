@@ -98,7 +98,7 @@ I used a large language model trained by **Google** to refine the CSS architectu
 - Frontend Mentor - [@naftalmambo](https://frontendmentor.io)
 - LinkedIn - [Naftal Mambo](https://linkedin.com)
 - GitHub - [@naftalmambo](https://github.com)
-- Discord - [naftalmambo](https://discordapp.com/users/1157321092482994246)
+- Discord - [devMambo](https://discordapp.com/users/1157321092482994246)
 
 
 ## Acknowledgments
