@@ -93,10 +93,10 @@ I used a large language model trained by **Google** to refine the CSS architectu
 
 ## Author
 
--Frontend Mentor - [@naftalmambo](https://www.frontendmentor.io/profile/naftalmambo)
+- Frontend Mentor - [@naftalmambo](https://www.frontendmentor.io/profile/naftalmambo)
 
 - LinkedIn - [@naftalmambo](https://www.linkedin.com/in/naftalmambo)
-- Discord - [naftalmambo] (https://discord.com/user/1157321092482994246)
+- Discord - [naftalmambo] (https://discord.com/user/naftalmambo)
 
 ## Acknowledgments
 
