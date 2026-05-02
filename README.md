@@ -47,7 +47,7 @@ Users should be able to:
 - **Google Fonts (Figtree)**
 - **VS Code** - My primary editor for writing clean, structured code.
 - **Linux (Ubuntu/WSL)** - My development environment for a professional, stable workflow.
-- **Windows Browser (Chrome/Edge)** - Used for cross-browser testing and DevTools debugging.
+- **Windows Browser (Chrome)** - Used for cross-browser testing to ensure its responsive.
 
 ### What I learned
 
