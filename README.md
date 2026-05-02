@@ -29,7 +29,7 @@ Users should be able to:
 
 | Desktop Version | Mobile Version |
 | :--- | :--- |
-| ![Desktop Screenshot](assets/images/desktop-version.png) | ![Mobile Screenshot](assets/images/mobile-version.png) |
+| ![Desktop Screenshot](assets/images/desktop-version.png) | ![Mobile Screenshot](assets/images/mobile-version.jpg) |
 
 ### Links
 
