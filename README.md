@@ -12,7 +12,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor]
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
   - [AI Collaboration](#ai-collaboration)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
@@ -38,11 +37,14 @@ Users should be able to:
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- Mobile-first workflow
-- Google Fonts (Figtree)
+- **Semantic HTML5 markup**
+- **CSS custom properties**
+- **Flexbox**
+- **Mobile-first workflow**
+- **Google Fonts (Figtree)**
+- **VS Code** - My primary editor for writing clean, structured code.
+- **Linux (Ubuntu/WSL)** - My development environment for a professional, stable workflow.
+- **Windows Browser (Chrome/Edge)** - Used for cross-browser testing and DevTools debugging.
 
 ### What I learned
 
@@ -91,15 +93,17 @@ I used a large language model trained by **Google** to refine the CSS architectu
 
 ## Author
 
-Frontend Mentor - [@naftalmambo](https://www.frontendmentor.io/profile/naftalmambo)
+-Frontend Mentor - [@naftalmambo](https://www.frontendmentor.io/profile/naftalmambo)
 
 - LinkedIn - [@naftalmambo](https://www.linkedin.com/in/naftalmambo)
 - Discord - [naftalmambo] (https://discord.com/user/1157321092482994246)
 
 ## Acknowledgments
 
-## 🌟 Appreciation for Frontend Mentor
+### 🌟 Appreciation for Frontend Mentor
 
 I want to express my sincere gratitude to **[Frontend Mentor](https://www.frontendmentor.io)** for providing these incredible, real-world challenges that I am sure will enable me to grow to be the dev I aspire.
 
-This platform will be more than just a place to practice—it will be a gateway to building skills that truly **change lives**. By bridging the gap between theory and professional workflows, Frontend Mentor will help me build a rock-solid skill for a future where I can create meaningful digital solutions.
+This platform will be more than just a place to practice—it will be a gateway to building skills that truly **change lives**.
+
+By bridging the gap between theory and professional workflows, Frontend Mentor will help me build a rock-solid skill for a future where I can create meaningful digital solutions.
