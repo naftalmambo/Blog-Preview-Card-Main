@@ -13,7 +13,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor]
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [AI Collaboration](#ai-collaboration)
-- [Open for Opportunities & Collaboration](#open-for-opportunities--collaboration)
+- [Open for Opportunities & Collaboration](#open-for-opportunities-&-collaboration)
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
@@ -91,7 +91,7 @@ I used a large language model trained by **Google** to refine the CSS architectu
 
 **What worked well:** The AI was excellent at explaining the **logic** behind mobile-first design, which helped me decide when to keep or remove specific media queries. It also helped ensure my hover and active states (like the card "button press" effect) were implemented smoothly.
 
-## 🚀 Open for Opportunities & Collaboration
+## Open for Opportunities & Collaboration
 
 This project marks the beginning of my journey toward becoming a professional Web Developer and ultimately a Java Full-Stack. I am currently:
 
