@@ -13,7 +13,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor]
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [AI Collaboration](#ai-collaboration)
-- [Open for Opportunities & Collaboration](#open-for-Opportunities-&-Collaboration)
+- [Open for Opportunities & Collaboration](#open-for-opportunities-&-collaboration)
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
