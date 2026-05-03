@@ -72,7 +72,8 @@ body {
 }
 
 .card-badge:focus-visible,
-.card-title a:focus-visible {
+.card-title a:focus-visible,
+.card-author-name:focus-visible {
   outline: 3px solid #000;
   outline-offset: 4px;
   border-radius: 2px;
@@ -126,6 +127,7 @@ body {
 .card-author-name {
   font-weight: 800;
   transition: all 0.3s ease;
+  text-decoration: none;
 }
 
 .card-author-name:hover {
