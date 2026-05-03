@@ -157,3 +157,15 @@ body {
     font-size: 28px;
   }
 }
+
+@media (prefers-reduced-motion: reduce) {
+  .card,
+  .card-badge,
+  .card-title a {
+    transition: none;
+  }
+
+  .card:active {
+    transform: none;
+  }
+}
