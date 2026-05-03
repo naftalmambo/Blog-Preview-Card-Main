@@ -23,7 +23,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  min-height: 100vh;
   font-size: 1rem;
 }
 
@@ -71,6 +71,13 @@ body {
   cursor: pointer;
 }
 
+.card-badge:focus-visible,
+.card-title a:focus-visible {
+  outline: 3px solid #000;
+  outline-offset: 4px;
+  border-radius: 2px;
+}
+
 .card-date {
   display: block;
   margin-bottom: 20px;
@@ -93,12 +100,6 @@ body {
 .card-title a:hover {
   color: hsl(47, 88%, 63%);
   cursor: pointer;
-}
-
-.card-title a:focus-visible {
-  outline: 3px solid #000;
-  outline-offset: 4px;
-  border-radius: 2px;
 }
 
 .card-description {
