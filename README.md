@@ -97,7 +97,6 @@ This project marks the beginning of my journey toward becoming a professional We
 
 - 🔭 **Open for work:** Looking for junior roles or freelance opportunities where I can apply my skills in HTML, CSS, and Javascript(in-progress).
 - 🤝 **Open to contribute:** Interested in collaborating on open-source projects or team-based challenges.
-- 🌱 **Always learning:** Moving towards the **Frontend Mentor Pro package** to master Figma-to-code workflows.
 
 If you like what you see or have a project you need help with, connect with:
 
@@ -114,7 +113,7 @@ If you like what you see or have a project you need help with, connect with:
 
 I want to express my sincere gratitude to **[Frontend Mentor](https://www.frontendmentor.io)** for providing these incredible, real-world challenges that I am sure will enable me to grow to be the dev I aspire.
 
-This platform will be more than just a place to practice—it will be a gateway to building skills that truly **change lives**.
+This platform will be more than just a place to practice, it will be a gateway to building skills that truly **change lives**.
 
 By bridging the gap between theory and professional workflows, Frontend Mentor will help me build a rock-solid skill for a future where I can create meaningful digital solutions.
 
