@@ -28,12 +28,12 @@ body {
 }
 
 .card {
-  padding: 16px;
-  max-width: 384px;
+  padding: 1rem;
+  max-width: 24rem;
   width: 90%;
   background-color: hsl(0, 0%, 100%);
   margin: 0;
-  border-radius: 20px;
+  border-radius: 1.25rem;
   border: 1px solid hsl(0, 0%, 7%);
   box-shadow: 8px 8px 0px 0px #000000;
   transition: all 0.3s ease;
@@ -49,18 +49,18 @@ body {
   height: auto;
   object-fit: cover;
   border-radius: 12px;
-  margin-bottom: 15px;
+  margin-bottom: 0.9375rem;
 }
 
 .card-badge {
   background-color: hsl(47, 88%, 63%);
   display: inline-block;
   font-weight: 800;
-  font-size: 16px;
+  font-size: 1rem;
   text-decoration: none;
   padding: 4px 12px;
   border-radius: 4px;
-  margin-bottom: 15px;
+  margin-bottom: 0.9375rem;
   color: hsl(0, 0%, 7%);
   transition: all 0.3s ease;
 }
@@ -81,14 +81,14 @@ body {
 
 .card-date {
   display: block;
-  margin-bottom: 20px;
+  margin-bottom: 1.25rem;
   color: hsl(0, 0%, 7%);
   font-weight: 500;
 }
 
 .card-title {
   font-weight: 800;
-  font-size: 22px;
+  font-size: 1.375rem;
   margin-bottom: 25px;
 }
 
@@ -104,7 +104,7 @@ body {
 }
 
 .card-description {
-  font-size: 16px;
+  font-size: 1rem;
   font-family: 'Figtree', sans-serif;
   color: hsl(0, 0%, 42%);
   letter-spacing: 0.5px;
@@ -119,8 +119,8 @@ body {
 }
 
 .card-author-img {
-  width: 32px;
-  height: 32px;
+  width: 2rem;
+  height: 2rem;
   border-radius: 50%;
 }
 
@@ -158,7 +158,7 @@ body {
     padding: 24px;
   }
   .card-title {
-    font-size: 28px;
+    font-size: 1.75rem;
   }
 }
 
